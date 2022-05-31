@@ -9,3 +9,7 @@ Created JSON REST API with CRUD operations for Provider (name, email, phone numb
 
 ## Providers initialising Polygons in API Root
 ![](preview/polygon.png)
+
+## Checking if the Provider and Geojson Object are Created and Stored in Database
+![](preview/provider.png)
+![](preview/geojson.png)
