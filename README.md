@@ -6,3 +6,6 @@ Created JSON REST API with CRUD operations for Provider (name, email, phone numb
 
 ## Initialising Our Providers in API Root
 ![](preview/provider_setup.png)
+
+## Providers initialising Polygons in API Root
+![](preview/polygon.png)
