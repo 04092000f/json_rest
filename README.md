@@ -3,3 +3,6 @@ Created JSON REST API with CRUD operations for Provider (name, email, phone numb
 
 ## How our Root Api Actually Looks
 ![](preview/root.png)
+
+## Initialising Our Providers in API
+![](preview/provider_setup.png)
